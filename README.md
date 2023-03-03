@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
 <!--
 **ThomF/ThomF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
