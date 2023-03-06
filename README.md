@@ -9,6 +9,8 @@
 
 
 [![ThomF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
