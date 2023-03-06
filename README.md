@@ -8,7 +8,7 @@
 
 
 
-[![ThomF's GitHub stats](https://github-readme-stats.vercel.app/api?ThomF=anuraghazra)](https://github.com/ThomF/github-readme-stats)
+[![ThomF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
