@@ -2,6 +2,7 @@
 Hey! My Name is Thomas and I am a FullStack student at BoiseCodeWorks. I am curently expanding my Learning with coding by learning new languages and frameworks! 
 
 Familiar With:
+###
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
