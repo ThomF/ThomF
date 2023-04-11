@@ -1,5 +1,7 @@
 ### 
-Hey! My Name is Thomas and I am a FullStack student at BoiseCodeWorks. I am curently expanding my Learning with coding by learning new languages and frameworks! 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 Familiar With:
 ###
