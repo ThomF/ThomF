@@ -1,5 +1,6 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I%20am%20Thomas&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I%20am%20Thomas.&fontSize=90)
 
 Familiar With:
 ###
@@ -9,7 +10,7 @@ Familiar With:
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-
+![image](https://user-images.githubusercontent.com/111818765/231284701-1f39fdaf-9bf0-49d0-b247-5cc960c6094b.png)
 
 
 [![ThomF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomF)](https://github.com/anuraghazra/github-readme-stats)
