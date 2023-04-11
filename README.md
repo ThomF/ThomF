@@ -3,7 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I%20am%20Thomas.&fontSize=90">
   </div>
 
-Familiar With:
 ###
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
