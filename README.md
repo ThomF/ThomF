@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I am Thoams&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I_am_Thoams&fontSize=90)
 
 Familiar With:
 ###
