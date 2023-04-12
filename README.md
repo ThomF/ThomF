@@ -21,9 +21,9 @@
 </div>
 
 
-
-[![ThomF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomF&theme=tokyonight)">
+</div>
 
 
 
