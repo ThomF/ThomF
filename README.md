@@ -2,7 +2,11 @@
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I%20am%20Thomas.&fontSize=90">
   </div>
-
+  <div>
+<!--   <p>
+  I am a actively hingry for more knowledge in the tech world
+  </p> -->
+  </div>
 ###
 
 <div align="center">
@@ -17,6 +21,18 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+
+</div>
+<div align="center">
+  <h1>Curently Learning :</h1>
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black">
+
 
 </div>
 
