@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomF&theme=tokyonight)">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomF&show_icons=true&theme=tokyonight)">
 </div>
 
 
