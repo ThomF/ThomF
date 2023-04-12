@@ -2,11 +2,7 @@
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I%20am%20Thomas.&fontSize=90">
   </div>
-  <div>
-<!--   <p>
-  I am a actively hingry for more knowledge in the tech world
-  </p> -->
-  </div>
+
 ###
 
 <div align="center">
@@ -21,6 +17,8 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+
 
 </div>
 <div align="center">
