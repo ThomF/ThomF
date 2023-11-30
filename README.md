@@ -8,7 +8,7 @@
 <div>
   <p>I am a full stack Graduate from Boise CodeWorks. I am actively learning about new technologies while exploring the vast amount of knowledge that coding is. I have always been intruiged by the difficult puzzles that creating applciations takes and amazed by what could be created with all combinations of languages and frameworks. Reach out to me on LinkedIn @Thomas-Fuhriman. </p>
 </div>
-
+<!--
 <div align="center">
   <h1>I am Familiar with :</h1>
 </div>
@@ -39,7 +39,7 @@
 </div>
 
 <br>
-<!-- <div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomF&show_icons=true&theme=radical)">
 </div> -->
 
