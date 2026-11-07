@@ -1,64 +1,78 @@
-### 
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey!%20I%20am%20Thomas.&fontSize=90">
-  </div>
-
-###
-
-<div>
-  <p>I am a full stack Graduate from Boise CodeWorks. I am actively learning about new technologies while exploring the vast amount of knowledge that coding is. I have always been intruiged by the difficult puzzles that creating applciations takes and amazed by what could be created with all combinations of languages and frameworks. Reach out to me on LinkedIn @Thomas-Fuhriman. </p>
-</div>
-<!--
 <div align="center">
-  <h1>I am Familiar with :</h1>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
-    <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-
-
-</div>
-<div align="center">
-  <h1>Curently Learning :</h1>
-</div>
-<div align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black">
-
-
+  <img src="./assets/header.svg" alt="THOMAS.OS — Hey, I'm Thomas. Full-stack developer, Boise CodeWorks graduate." width="100%">
 </div>
 
 <br>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomF&show_icons=true&theme=radical)">
-</div> -->
 
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  ▚▚▚  OPERATOR DOSSIER                          [ FILE 01 ]  ║
+╠══════════════════════════════════════════════════════════════╣
+║  CALLSIGN ......... THOMAS FUHRIMAN  (ThomF)                 ║
+║  CLASS ............ FULL-STACK DEVELOPER                     ║
+║  TRAINING ......... BOISE CODEWORKS  ▪  GRADUATE             ║
+║  DIRECTIVE ........ SOLVE HARD PUZZLES, SHIP COOL APPS       ║
+║  STATUS ........... ● ONLINE  —  ALWAYS LEARNING             ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
+> I've always been hooked on the tough puzzles that building applications throws at you —
+> and amazed by what's possible when you mix and match languages and frameworks.
+> These days I'm out in the field, scavenging new tech and adding it to the loadout.
 
+<img src="./assets/divider.svg" width="100%">
 
-<!--
-![image](https://user-images.githubusercontent.com/111818765/231284701-1f39fdaf-9bf0-49d0-b247-5cc960c6094b.png)
+## ▚ 02 // LOADOUT — `EQUIPPED`
 
-**ThomF/ThomF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-1C1B19?style=for-the-badge&logo=vuedotjs&logoColor=F28C28">
+  <img src="https://img.shields.io/badge/JavaScript-1C1B19?style=for-the-badge&logo=javascript&logoColor=F2C230">
+  <img src="https://img.shields.io/badge/Node.js-1C1B19?style=for-the-badge&logo=nodedotjs&logoColor=2E8C83">
+  <img src="https://img.shields.io/badge/.NET-1C1B19?style=for-the-badge&logo=dotnet&logoColor=D94A2B">
+  <img src="https://img.shields.io/badge/C%23-1C1B19?style=for-the-badge&logo=csharp&logoColor=F28C28">
+  <img src="https://img.shields.io/badge/MongoDB-1C1B19?style=for-the-badge&logo=mongodb&logoColor=2E8C83">
+  <img src="https://img.shields.io/badge/MySQL-1C1B19?style=for-the-badge&logo=mysql&logoColor=F2C230">
+  <img src="https://img.shields.io/badge/Sass-1C1B19?style=for-the-badge&logo=sass&logoColor=D94A2B">
+  <img src="https://img.shields.io/badge/VS%20Code-1C1B19?style=for-the-badge&logo=visualstudiocode&logoColor=2E8C83">
+</p>
 
-Here are some ideas to get you started:
+## ▚ 03 // SALVAGE IN PROGRESS — `LEARNING`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/React-EDE6D6?style=for-the-badge&logo=react&logoColor=2E8C83">
+  <img src="https://img.shields.io/badge/Angular-EDE6D6?style=for-the-badge&logo=angular&logoColor=D94A2B">
+  <img src="https://img.shields.io/badge/Dart-EDE6D6?style=for-the-badge&logo=dart&logoColor=2E8C83">
+  <img src="https://img.shields.io/badge/Flutter-EDE6D6?style=for-the-badge&logo=flutter&logoColor=F28C28">
+  <img src="https://img.shields.io/badge/Firebase-EDE6D6?style=for-the-badge&logo=firebase&logoColor=F28C28">
+</p>
+
+<img src="./assets/divider.svg" width="100%">
+
+## ▚ 04 // FIELD TELEMETRY
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThomF&show_icons=true&hide_border=true&border_radius=12&bg_color=EDE6D6&title_color=D94A2B&text_color=1C1B19&icon_color=2E8C83&custom_title=RAID%20RECORD">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomF&layout=compact&hide_border=true&border_radius=12&bg_color=EDE6D6&title_color=D94A2B&text_color=1C1B19&custom_title=AMMO%20BY%20CALIBER">
+</div>
+
+<img src="./assets/divider.svg" width="100%">
+
+## ▚ 05 // OPEN A COMMS CHANNEL
+
+```text
+> ESTABLISHING UPLINK..........
+> FREQUENCY FOUND. TRANSMIT WHEN READY_
+```
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thomas-fuhriman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thomas--Fuhriman-D94A2B?style=for-the-badge&logo=linkedin&logoColor=EDE6D6&labelColor=1C1B19">
+  </a>
+  <a href="https://github.com/ThomF">
+    <img src="https://img.shields.io/badge/GitHub-ThomF-2E8C83?style=for-the-badge&logo=github&logoColor=EDE6D6&labelColor=1C1B19">
+  </a>
+</p>
+
+<div align="center">
+  <sub>▪ ▪ ▪ &nbsp; THOMAS.OS ▪ END OF TRANSMISSION ▪ SEE YOU TOPSIDE, RAIDER &nbsp; ▪ ▪ ▪</sub>
+</div>
