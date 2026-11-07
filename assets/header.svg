@@ -1,74 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
   <defs>
     <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="2" fill="#1C1B19" opacity="0.05"/>
+      <rect width="4" height="2" fill="#1C1B19" opacity="0.04"/>
     </pattern>
-    <clipPath id="sunClip"><circle cx="735" cy="175" r="95"/></clipPath>
-    <clipPath id="l1"><rect x="40" y="200" height="22" width="0"><animate attributeName="width" from="0" to="460" begin="0.4s" dur="1.2s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l2"><rect x="40" y="226" height="22" width="0"><animate attributeName="width" from="0" to="460" begin="1.8s" dur="1.2s" fill="freeze"/></rect></clipPath>
-    <clipPath id="l3"><rect x="40" y="252" height="22" width="0"><animate attributeName="width" from="0" to="460" begin="3.2s" dur="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="panel"><rect x="4" y="42" width="892" height="254" rx="0"/></clipPath>
+    <clipPath id="l1"><rect x="40" y="186" height="22" width="0"><animate attributeName="width" from="0" to="480" begin="0.4s" dur="1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="40" y="212" height="22" width="0"><animate attributeName="width" from="0" to="480" begin="1.6s" dur="1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="40" y="238" height="22" width="0"><animate attributeName="width" from="0" to="480" begin="2.8s" dur="1.2s" fill="freeze"/></rect></clipPath>
   </defs>
 
-  <!-- casing -->
-  <rect x="4" y="4" width="892" height="312" rx="18" fill="#EDE6D6" stroke="#1C1B19" stroke-width="4"/>
+  <!-- window -->
+  <rect x="4" y="4" width="892" height="292" rx="16" fill="#EDE6D6" stroke="#1C1B19" stroke-width="4"/>
+  <path d="M4 20 a16 16 0 0 1 16 -16 h860 a16 16 0 0 1 16 16 v22 h-892z" fill="#1C1B19"/>
+  <circle cx="28" cy="23" r="6" fill="#D94A2B"/>
+  <circle cx="48" cy="23" r="6" fill="#F2C230"/>
+  <circle cx="68" cy="23" r="6" fill="#2E8C83"/>
+  <text x="450" y="29" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" font-weight="bold" fill="#EDE6D6" letter-spacing="2">thomas.os</text>
 
-  <!-- title bar -->
-  <path d="M4 22 a18 18 0 0 1 18 -18 h856 a18 18 0 0 1 18 18 v20 h-892z" fill="#1C1B19"/>
-  <text x="28" y="31" font-family="'Courier New', Courier, monospace" font-size="15" font-weight="bold" fill="#EDE6D6" letter-spacing="2">THOMAS.OS // TERMINAL 01</text>
-  <text x="872" y="31" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#F2C230" letter-spacing="2">SYS.ONLINE
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- retro sun with stripe cuts -->
-  <g clip-path="url(#sunClip)">
-    <rect x="640" y="80" width="190" height="60" fill="#F2C230"/>
-    <rect x="640" y="140" width="190" height="40" fill="#F28C28"/>
-    <rect x="640" y="180" width="190" height="40" fill="#D94A2B"/>
-    <rect x="640" y="220" width="190" height="60" fill="#2E8C83"/>
-    <rect x="640" y="150" width="190" height="4" fill="#EDE6D6"/>
-    <rect x="640" y="190" width="190" height="6" fill="#EDE6D6"/>
-    <rect x="640" y="230" width="190" height="8" fill="#EDE6D6"/>
-    <rect x="640" y="250" width="190" height="10" fill="#EDE6D6"/>
+  <!-- 70s stripe band on the right -->
+  <g clip-path="url(#panel)" transform="translate(0 0)">
+    <g transform="skewX(-20)">
+      <rect x="760" y="42" width="34" height="260" fill="#D94A2B"/>
+      <rect x="800" y="42" width="34" height="260" fill="#F28C28"/>
+      <rect x="840" y="42" width="34" height="260" fill="#F2C230"/>
+      <rect x="880" y="42" width="34" height="260" fill="#2E8C83"/>
+      <rect x="920" y="42" width="60" height="260" fill="#1C1B19"/>
+    </g>
   </g>
-  <circle cx="735" cy="175" r="95" fill="none" stroke="#1C1B19" stroke-width="4"/>
-  <!-- orbit ring -->
-  <ellipse cx="735" cy="175" rx="140" ry="28" fill="none" stroke="#1C1B19" stroke-width="3" stroke-dasharray="10 8" transform="rotate(-14 735 175)">
-    <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="6s" repeatCount="indefinite"/>
-  </ellipse>
+  <path d="M896 42 v238 a16 16 0 0 1 -16 16" fill="none" stroke="#1C1B19" stroke-width="4"/>
 
-  <!-- slanted racing stripes -->
-  <g transform="skewX(-25)">
-    <rect x="130" y="62" width="16" height="44" fill="#D94A2B"/>
-    <rect x="152" y="62" width="16" height="44" fill="#F28C28"/>
-    <rect x="174" y="62" width="16" height="44" fill="#F2C230"/>
-    <rect x="196" y="62" width="16" height="44" fill="#2E8C83"/>
-  </g>
-  <text x="186" y="96" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="900" fill="#1C1B19" letter-spacing="1">OPERATOR FILE</text>
+  <!-- greeting -->
+  <text x="40" y="90" font-family="'Courier New', Courier, monospace" font-size="15" font-weight="bold" fill="#D94A2B" letter-spacing="3">HELLO, WORLD</text>
+  <text x="38" y="146" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="900" fill="#1C1B19" letter-spacing="-1">HEY, I'M THOMAS.</text>
+  <rect x="40" y="160" width="200" height="5" fill="#D94A2B"/>
+  <rect x="244" y="160" width="40" height="5" fill="#F28C28"/>
+  <rect x="288" y="160" width="16" height="5" fill="#2E8C83"/>
 
-  <text x="38" y="164" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="900" fill="#1C1B19" letter-spacing="-1">HEY, I'M THOMAS.</text>
-  <rect x="40" y="176" width="200" height="5" fill="#D94A2B"/>
-  <rect x="244" y="176" width="40" height="5" fill="#F28C28"/>
-  <rect x="288" y="176" width="16" height="5" fill="#2E8C83"/>
-
-  <!-- boot log typing -->
+  <!-- typed lines -->
   <g font-family="'Courier New', Courier, monospace" font-size="17" font-weight="bold">
-    <text x="40" y="216" fill="#2E8C83" clip-path="url(#l1)">&gt; BOOTING FULL-STACK PROTOCOL....... OK</text>
-    <text x="40" y="242" fill="#1C1B19" clip-path="url(#l2)">&gt; ORIGIN: BOISE CODEWORKS // GRADUATE</text>
-    <text x="40" y="268" fill="#D94A2B" clip-path="url(#l3)">&gt; STATUS: SCAVENGING NEW TECH</text>
+    <text x="40" y="202" fill="#2E8C83" clip-path="url(#l1)">&gt; full stack developer</text>
+    <text x="40" y="228" fill="#1C1B19" clip-path="url(#l2)">&gt; boise codeworks graduate</text>
+    <text x="40" y="254" fill="#D94A2B" clip-path="url(#l3)">&gt; learning react + flutter</text>
   </g>
-  <rect x="345" y="254" width="11" height="17" fill="#D94A2B" opacity="0">
+  <rect x="318" y="240" width="11" height="17" fill="#D94A2B" opacity="0">
     <set attributeName="opacity" to="1" begin="4s"/>
     <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- footer ticks -->
-  <text x="40" y="300" font-family="'Courier New', Courier, monospace" font-size="11" fill="#1C1B19" opacity="0.6" letter-spacing="3">UNIT TF-01 ▪ SECTOR 208 ▪ CLEARANCE: OPEN</text>
-  <g fill="#1C1B19" opacity="0.6">
-    <rect x="640" y="292" width="4" height="10"/><rect x="650" y="292" width="4" height="10"/><rect x="660" y="292" width="4" height="10"/>
-    <rect x="670" y="292" width="12" height="10"/><rect x="688" y="292" width="4" height="10"/><rect x="698" y="292" width="20" height="10"/>
-    <rect x="724" y="292" width="4" height="10"/><rect x="734" y="292" width="8" height="10"/><rect x="748" y="292" width="4" height="10"/>
-  </g>
-
-  <!-- CRT scanlines -->
-  <rect x="4" y="42" width="892" height="274" fill="url(#scan)" pointer-events="none"/>
+  <rect x="4" y="42" width="892" height="254" fill="url(#scan)"/>
 </svg>

@@ -1,28 +1,25 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="THOMAS.OS — Hey, I'm Thomas. Full-stack developer, Boise CodeWorks graduate." width="100%">
+  <img src="./assets/header.svg" alt="Hey, I'm Thomas. Full stack developer and Boise CodeWorks graduate." width="100%">
 </div>
 
 <br>
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  ▚▚▚  OPERATOR DOSSIER                          [ FILE 01 ]  ║
-╠══════════════════════════════════════════════════════════════╣
-║  CALLSIGN ......... THOMAS FUHRIMAN  (ThomF)                 ║
-║  CLASS ............ FULL-STACK DEVELOPER                     ║
-║  TRAINING ......... BOISE CODEWORKS  ▪  GRADUATE             ║
-║  DIRECTIVE ........ SOLVE HARD PUZZLES, SHIP COOL APPS       ║
-║  STATUS ........... ● ONLINE  —  ALWAYS LEARNING             ║
-╚══════════════════════════════════════════════════════════════╝
+┌───────────────────────────────────────────────┐
+│  about_me.txt                                 │
+├───────────────────────────────────────────────┤
+│  name ......... Thomas Fuhriman               │
+│  role ......... Full stack developer          │
+│  school ....... Boise CodeWorks (graduate)    │
+│  learning ..... React, Angular, Flutter       │
+└───────────────────────────────────────────────┘
 ```
 
-> I've always been hooked on the tough puzzles that building applications throws at you —
-> and amazed by what's possible when you mix and match languages and frameworks.
-> These days I'm out in the field, scavenging new tech and adding it to the loadout.
+I'm a full stack developer and a graduate of Boise CodeWorks. I've always liked the hard puzzles that come with building applications, and I'm still amazed by what you can make by combining different languages and frameworks. I'm always picking up something new, so feel free to reach out on LinkedIn.
 
 <img src="./assets/divider.svg" width="100%">
 
-## ▚ 02 // LOADOUT — `EQUIPPED`
+## 01 / Tech I use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-1C1B19?style=for-the-badge&logo=vuedotjs&logoColor=F28C28">
@@ -36,7 +33,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-1C1B19?style=for-the-badge&logo=visualstudiocode&logoColor=2E8C83">
 </p>
 
-## ▚ 03 // SALVAGE IN PROGRESS — `LEARNING`
+## 02 / Currently learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-EDE6D6?style=for-the-badge&logo=react&logoColor=2E8C83">
@@ -48,21 +45,15 @@
 
 <img src="./assets/divider.svg" width="100%">
 
-## ▚ 04 // FIELD TELEMETRY
+## 03 / Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThomF&show_icons=true&hide_border=true&border_radius=12&bg_color=EDE6D6&title_color=D94A2B&text_color=1C1B19&icon_color=2E8C83&custom_title=RAID%20RECORD">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomF&layout=compact&hide_border=true&border_radius=12&bg_color=EDE6D6&title_color=D94A2B&text_color=1C1B19&custom_title=AMMO%20BY%20CALIBER">
+  <img src="https://ghchart.rshah.org/F28C28/ThomF" alt="ThomF's GitHub contribution chart" width="100%">
 </div>
 
 <img src="./assets/divider.svg" width="100%">
 
-## ▚ 05 // OPEN A COMMS CHANNEL
-
-```text
-> ESTABLISHING UPLINK..........
-> FREQUENCY FOUND. TRANSMIT WHEN READY_
-```
+## 04 / Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thomas-fuhriman/">
@@ -74,5 +65,5 @@
 </p>
 
 <div align="center">
-  <sub>▪ ▪ ▪ &nbsp; THOMAS.OS ▪ END OF TRANSMISSION ▪ SEE YOU TOPSIDE, RAIDER &nbsp; ▪ ▪ ▪</sub>
+  <sub>Thanks for stopping by!</sub>
 </div>
