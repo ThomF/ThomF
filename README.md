@@ -11,10 +11,17 @@
  ROLE ........ App Developer
  SCHOOL ...... Boise CodeWorks (graduate)
  LEARNING .... React, Angular, Go
+ PORTFOLIO ... thomf.github.io
  STATUS ...... ● online
 ```
 
 I'm an app developer and a graduate of Boise CodeWorks. I've always liked the hard puzzles that come with building applications, and I'm still amazed by what you can make by combining different languages and frameworks. I'm always picking up something new, so feel free to reach out on LinkedIn.
+
+<p align="left">
+  <a href="https://thomf.github.io/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20VIEW%20MY%20PORTFOLIO-thomf.github.io-ffb53d?style=for-the-badge&labelColor=15120d">
+  </a>
+</p>
 
 <img src="./assets/divider.svg" width="100%">
 
@@ -55,6 +62,9 @@ I'm an app developer and a graduate of Boise CodeWorks. I've always liked the ha
 ### `04` &nbsp; C O N T A C T
 
 <p align="left">
+  <a href="https://thomf.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-thomf.github.io-ffb53d?style=for-the-badge&logo=githubpages&logoColor=0b0a08&labelColor=15120d">
+  </a>
   <a href="https://www.linkedin.com/in/thomas-fuhriman/">
     <img src="https://img.shields.io/badge/LinkedIn-Thomas--Fuhriman-ffb53d?style=for-the-badge&logo=linkedin&logoColor=0b0a08&labelColor=15120d">
   </a>
