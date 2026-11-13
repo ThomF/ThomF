@@ -49,12 +49,12 @@
       <text x="576" y="176" fill="#6b6354">OPEN TO</text>  <text x="866" y="176" text-anchor="end" fill="#ffb53d">NEW PROJECTS</text>
     </g>
     <!-- progress meter -->
-    <rect x="576" y="196" width="290" height="10" fill="#0c0a07" stroke="#3a3024"/>
+    <!-- <rect x="576" y="196" width="290" height="10" fill="#0c0a07" stroke="#3a3024"/>
     <rect x="577" y="197" width="0" height="8" fill="#ffb53d">
       <animate attributeName="width" values="0;288;288" keyTimes="0;0.7;1" dur="4s" repeatCount="indefinite"/>
     </rect>
     <text x="576" y="226" font-size="9" fill="#6b6354" letter-spacing="2">LOADING NEXT IDEA...</text>
-  </g>
+  </g> -->
 
   <!-- process strip -->
   <g font-family="'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="2.5" text-anchor="middle">
